@@ -2,3 +2,4 @@ streamlit==1.28.1
 notion-client==2.1.0
 pyyaml>=6.0.1
 python-frontmatter==1.0.1
+pillow>=10.0.0
